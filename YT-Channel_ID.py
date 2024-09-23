@@ -9,7 +9,7 @@ import itertools
 import threading
 
 # YouTube Data APIのAPIキーを設定
-API_KEY = 'AIzaSyBbY4j6K7TbMLIX1X1PfjxPXW4K8qDm7n0'
+API_KEY = 'YOU_API_KEY'
 
 # スピナーアニメーションを行う関数
 def animate():
